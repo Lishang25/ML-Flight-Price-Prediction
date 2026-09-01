@@ -26,8 +26,7 @@ list_of_files = [
     ".gitignore",
     "app.py",
     "Dockerfile",
-    "README.md",
-    ".dvcignore",
+    "README.md", ".dvcignore",
     "dvc.yaml",
     "requirements.txt",
     "setup.py"]
